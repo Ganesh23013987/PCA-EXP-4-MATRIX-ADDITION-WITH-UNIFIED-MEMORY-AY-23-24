@@ -585,10 +585,13 @@ int main(int argc, char **argv)
 ```
 
 ## OUTPUT:
+
 WITH MEMSETS
+
 <img width="850" alt="image" src="https://github.com/user-attachments/assets/1dbc6b51-2999-4a66-acab-1767ac046d90" />
 
 WITHOUT MEMSETS
+
 <img width="850" alt="image" src="https://github.com/user-attachments/assets/00d39ec9-e796-4b75-a652-33419efad97b" />
 
 
